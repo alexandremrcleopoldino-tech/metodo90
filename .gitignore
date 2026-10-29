@@ -1,0 +1,26 @@
+# Arquivos de Ambiente com Segredos (CRÍTICO)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Dependências
+node_modules/
+package-lock.json
+
+# Logs e builds
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.vercel
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Testes e relatórios locais
+test_reports/
+screenshots/

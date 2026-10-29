@@ -1,0 +1,19 @@
+{
+  "name": "metodo-acordo-90-landing-page",
+  "version": "1.0.0",
+  "description": "Landing Page Premium no estilo Sketch / Working Sheet para o infoproduto Método Acordo 90",
+  "main": "index.html",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test_suite.js"
+  },
+  "keywords": [
+    "landing-page",
+    "metodo-acordo-90",
+    "desenrola",
+    "negociacao-dividas",
+    "sketch-design"
+  ],
+  "author": "Equipe Método Acordo 90",
+  "license": "UNLICENSED"
+}
